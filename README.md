@@ -6,8 +6,6 @@ This software is a basic "Hello, World!" application written in Python, designed
 
 The purpose of this software is to set up a repository with an initial program that serves as a starting point for more complex projects. This exercise helps me become more comfortable with GitHub workflows and basic Python programming.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 For this project, I used the following tools:
